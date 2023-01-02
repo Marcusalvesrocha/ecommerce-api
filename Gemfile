@@ -36,3 +36,6 @@ end
 
 # Simple, multi-client and secure token-based authentication for Rails.
 gem 'devise_token_auth'
+
+# CORS
+gem 'rack-cors', '~> 1.1.1'
