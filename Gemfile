@@ -43,3 +43,6 @@ gem 'devise_token_auth'
 
 # CORS
 gem 'rack-cors', '~> 1.1.1'
+
+#Create JSON structures via a Builder-style DSL
+gem 'jbuilder', '~> 2.11', '>= 2.11.5'
